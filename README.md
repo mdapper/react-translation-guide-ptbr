@@ -100,6 +100,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Handling: Lidando
 * Hoisting: Hoisting
 * Hooks: Ganchos
+* Higher-Order Components: Componentes de Ordem Superior (HOC, em inglês)
 
 
 #### I
