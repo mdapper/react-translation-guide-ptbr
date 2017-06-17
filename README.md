@@ -100,7 +100,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Handling: Lidando
 * Hoisting: Hoisting
 * Hooks: Ganchos
-* Higher-Order Components: Componentes de Ordem Superior (HOC, em inglês)
+* Higher-Order Components: Componentes de Ordem Superior (do inglês higher-order component, ou HOC) - Manter o uso da sigla em inglês **HOC** onde esta ocorre, mas em toda nova página que aparecer, na primeira ocorrência usar a tradução em português com a explicação do termo original entre parênteses, conforme vemos aqui.
 
 
 #### I
