@@ -39,6 +39,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 
 #### B
 
+* Batch: Lote / Processar em lote
 * Bind: Bind
 * Browser: Navegador
 * Bug: Bug
@@ -133,7 +134,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 
 * Maintainable: Fácil de manter
 * Markup: Marcação
-* Merge: Merge - sugira caso tenha uma sugestão melhor
+* Merged: Mescladas - sugira caso tenha uma sugestão melhor
 * Method: Método
 * Minifier: Minificador
 * Modules: Módulos
