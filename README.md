@@ -55,12 +55,15 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Children: Filhos
 * Closure: Closure
 * Code snippet: Trecho de código
+* Codebase: Base de código
 * Coercion: Coerção
 * Compilation: Compilação
 * Component: Componente
 * Constructor: Construtor
+* Controlled Components: Componentes Controlados
 * Cross-browser: Entre Navegadores
 * Curly Braces: Chaves
+
 
 #### D
 
@@ -74,6 +77,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 #### E
 
 * Elements: Elementos
+* Embedded: Incorporar
 * Engine: Motor
 * Environment: Ambiente
 * Equality: Igualdade
@@ -120,13 +124,14 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 #### K
 
 * Keyword: Palavra-chave
-
+* Key: Key (ou chave)
 
 #### L
 
 * Libraries: Bibliotecas
 * Lifecycle: Ciclo de Vida
 * Linter: Linter
+* Log: Loga
 * Look-up: Consulta
 
 
@@ -159,6 +164,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Parameter: Parâmetro
 * Parent: Pai
 * Parsing: Análise
+* Pipe: Canalizar
 * Plugin: Plugin
 * Polyfill: Polyfill
 * Prototype: Protótipo
@@ -176,6 +182,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Rendered: Renderizado
 * Return: Retorna
 * Root: Raiz
+* Rule of thumb: Regra de ouro
 * Run: Rodar / Executar
 
 
@@ -185,6 +192,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Screen: Tela
 * Semicolon: Ponto e vírgula
 * Shallow: Superficial
+* Single source of truth: Única fonte de verdade
 * Snippet: Trecho (de código)
 * Stack: Stack
 * State: Estado - não traduzir quando for uma referência direta ao atributo "state" do React.
@@ -214,6 +222,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 #### U
 
 * UI: UI (interface do usuário, em inglês) - fazer isso apenas na **primeira ocorrência** na página que estiver traduzindo, depois usar apenas **UI**
+* Uncontrolled components: Componentes não controlados
 * Unmounting: Desmontar
 * Unsigned: Não Sinalizado
 * Update: Atualizar
