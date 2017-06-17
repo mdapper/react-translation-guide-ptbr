@@ -6,6 +6,8 @@ O projeto está acontecendo no [Crowdin](https://crowdin.com/project/react) e qu
 
 As sugestões a seguir não são obrigatórias, são apenas uma forma de juntarmos em um lugar a discussão de quais as melhores traduções para determinados termos.
 
+Também deve se levar em conta o contexto, talvez a sugestão aqui não se aplique em todas as ocorrências.
+
 Dessa forma podemos ter uma tradução mais correta e consistente.
 
 ## Como Sugerir uma Tradução
@@ -17,7 +19,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 
 ## Instruções Gerais
 
-* Blocos de código não devem ser traduzidos.
+* Blocos de código não devem ser traduzidos. Deve-se usar o botão "Copy Source" do Crowdin que vai copiar o código original, e após isso salvar.
 * Comentários em blocos de código **devem** ser traduzidos.
 * Em caso de dúvida, manter parte inalterada (em inglês) dentro de aspas, por exemplo: "props", "state", "merge", etc.
 * Não traduzir elementos quando fazem referência direta a sintaxe do JavaScript, por exemplo: string, array, boolean, arrow function, etc.
@@ -135,7 +137,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Method: Método
 * Minifier: Minificador
 * Modules: Módulos
-* Mounting: Montando
+* Mounting: Montagem
 
 
 #### N
@@ -211,7 +213,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 #### U
 
 * UI: UI (interface do usuário, em inglês) - fazer isso apenas na **primeira ocorrência** na página que estiver traduzindo, depois usar apenas **UI**
-* Unmounting: Desmontando
+* Unmounting: Desmontar
 * Unsigned: Não Sinalizado
 * Update: Atualizar
 
