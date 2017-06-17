@@ -56,8 +56,8 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Compilation: Compilação
 * Component: Componente
 * Constructor: Construtor
+* Cross-browser: Entre Navegadores
 * Curly Braces: Chaves
-
 
 #### D
 
