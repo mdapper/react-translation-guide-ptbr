@@ -79,6 +79,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Elements: Elementos
 * Embedded: Incorporar
 * Engine: Motor
+* Enhanced: Melhorado / Aprimorado
 * Environment: Ambiente
 * Equality: Igualdade
 * Evaluate: Avaliado
@@ -179,7 +180,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 #### R
 
 * Read-Only: Somente Leitura
-* Render: Renderizar
+* Render: Renderizar - Não traduzir quando for uma referência direta para o método `render()` do React.
 * Rendered: Renderizado
 * Return: Retorna
 * Root: Raiz
@@ -236,6 +237,8 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 
 
 #### W
+
+* Wrap: Encapsular
 
 
 #### X
