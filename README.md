@@ -130,6 +130,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 
 * Libraries: Bibliotecas
 * Lifecycle: Ciclo de Vida
+* Lifting State Up: Levantando o Estado
 * Linter: Linter
 * Log: Loga
 * Look-up: Consulta
