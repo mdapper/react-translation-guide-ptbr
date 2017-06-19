@@ -24,6 +24,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Em caso de dúvida, manter parte inalterada (em inglês) dentro de aspas, por exemplo: "props", "state", "merge", etc.
 * Não traduzir elementos quando fazem referência direta a sintaxe do JavaScript, por exemplo: string, array, boolean, arrow function, etc.
 * Não traduzir elementos quando fazem referência direta a tags HTML, por exemplo: input, button, textarea, section, header, etc.
+* Nos títulos tentar corresponder as letras maiúsculas sempre que possível, por exemplo: "Alternatives to Controlled Components" deve ficar "Alternativas para Componentes Controlados", e não como muitas vezes é sugerido "Alternativas para componentes controlados".
 
 
 ## Sugestões de Tradução
@@ -62,12 +63,14 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Constructor: Construtor
 * Controlled Components: Componentes Controlados
 * Cross-browser: Entre Navegadores
+* Cross-Cutting Concerns: Características Transversais
 * Curly Braces: Chaves
 
 
 #### D
 
 * Debug: Debugar
+* Decorator: Decorador - não traduzir quando ser referir ao recurso experimental da linguagem JavaScript chamado "decorator"
 * Delegation: Delegação
 * Deprecated: Descontinuada / Depreciada
 * Display: Exibir
@@ -80,6 +83,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Embedded: Incorporar
 * Engine: Motor
 * Enhanced: Melhorado / Aprimorado
+* Enhancer-style: Aprimorador de estilo
 * Environment: Ambiente
 * Equality: Igualdade
 * Evaluate: Avaliado
