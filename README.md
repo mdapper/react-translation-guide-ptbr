@@ -41,6 +41,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 
 * Batch: Lote / Processar em lote
 * Bind: Bind
+* Boilerplate: Boilerplate
 * Browser: Navegador
 * Bug: Bug
 * Build (no sentido de compilar o código): Build
@@ -142,6 +143,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Merged: Mescladas - sugira caso tenha uma sugestão melhor
 * Method: Método
 * Minifier: Minificador
+* Mock: Molde ou Modelo / Simulação
 * Modules: Módulos
 * Mounting: Montagem
 
