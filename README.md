@@ -176,7 +176,7 @@ Pode também abrir diretamente um [Pull Request](https://github.com/mdapper/reac
 * Plugin: Plugin
 * Polyfill: Polyfill
 * Prototype: Protótipo
-
+* Package: Package - Não traduzir.
 
 #### Q
 
